@@ -1,2 +1,7 @@
 # gpt_assist
-This is a small project that will contain a personal assistent with specific parameters that will help you get content creation 
+Welcome to the gpt_assist project! This project aims to provide a unique personal assistant to facilitate content creation. This AI assistant, built with the latest advancements in machine learning, is designed to create high-quality content based on user-defined parameters, saving you significant time and effort.
+
+# features 
+Content Creation: The AI assistant can generate high-quality content such as articles, blog posts, social media posts, etc.
+
+This is not relesed yet, i will start the first version when openAi will approve me request to get accsess to more tokens of gpt-4.
